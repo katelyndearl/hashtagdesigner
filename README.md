@@ -11,4 +11,6 @@
     'npm install --save-dev gulp-mocha'
     'npm install mongoose'
 
-3. Once all dependancies are installed, run 'node app.js' and follow instructions that are given to you.
+3. Make sure Mongo is installed correctly and run 'mongod' in a different command prompt.
+
+4. Once all dependancies are installed and mongo is running, run 'node app.js' and follow instructions that are given to you.
